@@ -11735,6 +11735,7 @@ header.masthead .masthead-heading {
 
 .img-brand {
   height: 100%;
+  width: auto;
 }
 
 section#contact {
